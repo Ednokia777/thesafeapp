@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "984077653193",
+    "project_id": "the-safe-13ed7",
+    "storage_bucket": "the-safe-13ed7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984077653193:android:9bf9849cf88ca0b4da6918",
+        "android_client_info": {
+          "package_name": "com.safe.thesafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984077653193-a2ljulesu2qcv2f0imbu32f1vankum33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcQ2VWo_40X1U36iNuG2hX13QeYccNhdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984077653193-a2ljulesu2qcv2f0imbu32f1vankum33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
